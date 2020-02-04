@@ -13,7 +13,7 @@ root.resizable(width=False, height=False)
 
 canvas.pack(expand = YES, fill = BOTH)
 
-gif1 = PhotoImage(file = 'ludo board.gif')
+gif1 = PhotoImage(file ='images/Ludo Board.gif')
 canvas.create_image(50, 10, image = gif1, anchor = NW)
 
 
